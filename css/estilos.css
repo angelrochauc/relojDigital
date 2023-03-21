@@ -1,7 +1,4 @@
-* {
-    padding: 0;
-    margin: 0;
-  }
+
   html {
     height: 100%;
     font-size: 62.5%
@@ -33,14 +30,12 @@
     font-size: 4rem;
     letter-spacing: 0.5rem;
   }
-  
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 
 .footer-container {
   background-color: #cef;
@@ -102,3 +97,4 @@
     margin: 0 6rem;
   }
 }
+  
